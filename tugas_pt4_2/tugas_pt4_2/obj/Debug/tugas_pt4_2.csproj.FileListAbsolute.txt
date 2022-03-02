@@ -1,0 +1,7 @@
+C:\Users\HP\OneDrive\Documents\SharpDevelop Projects\tugas_pt4_2\tugas_pt4_2\obj\Debug\tugas_pt4_2.csprojResolveAssemblyReference.cache
+C:\Users\HP\OneDrive\Documents\SharpDevelop Projects\tugas_pt4_2\tugas_pt4_2\obj\Debug\tugas_pt4_2.MainForm.resources
+C:\Users\HP\OneDrive\Documents\SharpDevelop Projects\tugas_pt4_2\tugas_pt4_2\obj\Debug\tugas_pt4_2.csproj.GenerateResource.Cache
+C:\Users\HP\OneDrive\Documents\SharpDevelop Projects\tugas_pt4_2\tugas_pt4_2\bin\Debug\tugas_pt4_2.exe
+C:\Users\HP\OneDrive\Documents\SharpDevelop Projects\tugas_pt4_2\tugas_pt4_2\bin\Debug\tugas_pt4_2.pdb
+C:\Users\HP\OneDrive\Documents\SharpDevelop Projects\tugas_pt4_2\tugas_pt4_2\obj\Debug\tugas_pt4_2.exe
+C:\Users\HP\OneDrive\Documents\SharpDevelop Projects\tugas_pt4_2\tugas_pt4_2\obj\Debug\tugas_pt4_2.pdb
